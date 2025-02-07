@@ -1,0 +1,21 @@
+.banner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #f4f8d3; /* Optional background color */
+  padding: 0px;
+  position: sticky; /* Use sticky for a banner that moves with scrolling */
+  top: 0; /* Keeps the banner at the top */
+  z-index: 1000; /* Ensure it's on top of other elements */
+}
+
+.img {
+  width: 300px;
+  height: auto; /* Maintains aspect ratio */
+  padding: 10px;
+}
+
+.title {
+  padding: 0px;
+}

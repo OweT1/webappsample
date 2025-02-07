@@ -1,0 +1,16 @@
+.nav-button {
+  border: none;
+  background-color: transparent;
+  padding: 5;
+  margin: 10px; /* Add some space between buttons */
+}
+
+.nav-button img {
+  width: 75px; /* Adjust the image size */
+  height: auto; /* Adjust the image size */
+  cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+.nav-button:hover {
+  opacity: 0.75; /* Optional: Add a hover effect */
+}
