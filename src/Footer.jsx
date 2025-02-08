@@ -5,7 +5,7 @@ function Footer() {
   return (
     <footer className="footer">
       <div className="footer-content">
-        <p>&copy; AY2024/25 DSA3101 Data Science in Practice Group 3</p>
+        <p>&copy; AY2024/25 DSA3101 Data Science in Practice Group 6</p>
         <a
           href="https://github.com/your-github-repo"
           target="_blank"
