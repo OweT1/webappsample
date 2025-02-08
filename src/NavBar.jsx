@@ -7,25 +7,25 @@ function NavBar() {
   const linkButtonData = {
     homeButton: {
       webUrl: "/",
-      imgUrl: "public/assets/home.png",
+      imgUrl: "/assets/home.png",
       webName: "Home",
     },
 
     dashboardButton: {
       webUrl: "/dashboard",
-      imgUrl: "public/assets/dashboard.png",
+      imgUrl: "/assets/dashboard.png",
       webName: "Dashboard",
     },
 
     chatbotButton: {
       webUrl: "/chatbot",
-      imgUrl: "public/assets/chatbot.png",
+      imgUrl: "/assets/chatbot.png",
       webName: "Chatbot",
     },
 
     whatiftoolButton: {
       webUrl: "/whatiftool",
-      imgUrl: "public/assets/forecast.png",
+      imgUrl: "/assets/forecast.png",
       webName: "WhatIfTool",
     },
   };
